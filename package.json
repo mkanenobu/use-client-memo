@@ -13,6 +13,7 @@
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && bunchee src/index.ts --no-sourcemap",
+    "prepublish": "npm run build",
     "test": "jest",
     "typecheck": "tsc --noEmit && tsc --noEmit -p __tests__"
   },
