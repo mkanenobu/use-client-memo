@@ -1,6 +1,6 @@
 {
   "name": "use-client-memo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "useMemo for client side",
   "keywords": [
     "useMemo",
