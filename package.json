@@ -8,6 +8,7 @@
     "hooks"
   ],
   "author": "mkanenobu",
+  "repository": "github:mkanenobu/use-client-memo",
   "license": "MIT",
   "scripts": {
     "clean": "rimraf dist",
